@@ -9,3 +9,9 @@ All you need to do is type in the folder path for where you keep the file data.c
 ## Prerequisites
 
 A statistical modeling program Mplus (https://www.statmodel.com/glance.shtml).
+
+## Releases with DOI
+
+GitHub / Releases
+ v.1.0.0 INVEST-flagship/panel-syntax: v.1.0.0
+ DOI: 10.5281/zenodo.3514760
