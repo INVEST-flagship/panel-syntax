@@ -14,4 +14,6 @@ A statistical modeling program Mplus (https://www.statmodel.com/glance.shtml).
 
 GitHub / Releases
  v.1.0.0 INVEST-flagship/panel-syntax: v.1.0.0
- DOI: 10.5281/zenodo.3514760
+ DOI: 10.5281/zenodo.
+ 
+<a href="https://zenodo.org/badge/latestdoi/215018747"><img src="https://zenodo.org/badge/215018747.svg" alt="DOI"></a>
