@@ -17,3 +17,6 @@ GitHub / Releases
  DOI: 10.5281/zenodo.
  
 <a href="https://zenodo.org/badge/latestdoi/215018747"><img src="https://zenodo.org/badge/215018747.svg" alt="DOI"></a>
+
+## Cite as
+polaht. (2019, October 21). INVEST-flagship/panel-syntax: v.1.0.0 (Version v.1.0.0). Zenodo. http://doi.org/10.5281/zenodo.3514760
